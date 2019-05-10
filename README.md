@@ -1,0 +1,2 @@
+# openlayers_icon
+openlayers添加删除多个icon示例
